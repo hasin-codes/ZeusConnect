@@ -1,3 +1,8 @@
+![Thumbnail](https://raw.githubusercontent.com/hasin-codes/ZeusConnect/main/enhanced-image.png)
+
+
+
+
 # ZeusConnect: Elevate Your Online Connections
 
 ## About ZeusConnect
